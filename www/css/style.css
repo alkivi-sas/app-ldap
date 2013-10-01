@@ -1,0 +1,31 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.eventNotifyer
+{
+    padding    : 10px;
+    backgroup  : white;
+    width      : 80%;
+    margin     : auto;
+    left       : 0;
+    margin-top : 50px;
+    position   : fixed;
+    right      : 0;
+    z-index    : 1900;
+    background : white;
+    border-color : #0088CC;
+    border-style : dashed;
+    border-width : 2px;
+}
+
+#resetEvents
+{
+    position : absolute;
+    right    : 12px;
+    top      : 6px;
+}
